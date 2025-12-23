@@ -1,0 +1,9 @@
+# Pocketbase executable files
+/backend/pocketbase.executable
+
+# Ignore IDE and GitHub files
+.github
+.vscode
+
+# node modules
+/node_modules
